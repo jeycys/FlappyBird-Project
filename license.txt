@@ -1,11 +1,11 @@
 Model Information:
-* title:	Cloud
-* source:	https://sketchfab.com/3d-models/cloud-3a76eb255e3c4c0199bbfedb2b54342f
-* author:	RandyGF (https://sketchfab.com/RandyGF)
+* title:	Stylized Valorant Toy Knife
+* source:	https://sketchfab.com/3d-models/stylized-valorant-toy-knife-28c398ab0ea24e999122c15684de9594
+* author:	Mikkel Garde Blaase (https://sketchfab.com/plorigon)
 
 Model License:
-* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
-* requirements:	Author must be credited. Commercial use is allowed.
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Cloud" (https://sketchfab.com/3d-models/cloud-3a76eb255e3c4c0199bbfedb2b54342f) by RandyGF (https://sketchfab.com/RandyGF) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Stylized Valorant Toy Knife" (https://sketchfab.com/3d-models/stylized-valorant-toy-knife-28c398ab0ea24e999122c15684de9594) by Mikkel Garde Blaase (https://sketchfab.com/plorigon) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
